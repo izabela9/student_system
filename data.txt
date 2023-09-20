@@ -1,0 +1,5 @@
+John 19 10.0
+Alice 18 9.5
+James 22 6.7
+Anne 25 8.4
+Kelly 19 7.5
